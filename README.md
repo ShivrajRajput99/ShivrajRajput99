@@ -3,35 +3,47 @@
 <h3 align="center">🚀 Data Science Enthusiast | Python Developer | Machine Learning Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;NLP+Explorer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;NLP+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning, NLP and Deep Learning**
-- 📊 Interested in **Data Science and Analytics**
+- 📊 Passionate about **Data Science and Analytics**
 - 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-Learn**
-- 📚 Building Data Science Projects
-- ⚡ Passionate about AI & Analytics
+- 🚀 Building End-to-End Data Science Projects
+- ⚡ Love solving real-world problems using Data
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/ShivrajRajput99">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="mailto:smrajput2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://shivrajsinh-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+# 🛠 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode,jupyter" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode,jupyter"/>
+
 </p>
 
 ---
@@ -39,26 +51,31 @@
 # 📂 Featured Projects
 
 ### 📊 Advanced EDA & Feature Engineering
+
 ✔ Data Cleaning  
-✔ EDA  
 ✔ Outlier Detection  
+✔ Feature Engineering
 
 ### 💳 Fraud Detection Pipeline
+
 ✔ SMOTE  
 ✔ Random Forest  
-✔ Confusion Matrix  
+✔ Confusion Matrix
 
 ### 👥 Customer Segmentation using PCA & K-Means
+
 ✔ PCA  
 ✔ Elbow Method  
-✔ Silhouette Score  
+✔ Silhouette Score
 
 ### 📝 NLP Sentiment Analysis
+
 ✔ TF-IDF  
 ✔ Naive Bayes  
 ✔ Accuracy: 85.35%
 
 ### 🏠 Delhi House Price Prediction
+
 ✔ Regression Models  
 ✔ Feature Engineering  
 ✔ Model Evaluation
@@ -87,6 +104,26 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivrajRajput99&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivrajRajput99&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 📄 Resume
 
 <p align="center">
@@ -105,7 +142,7 @@
 
 <p align="center">
 
-🔗 https://shivrajsinh-portfolio.vercel.app
+### 🔗 https://shivrajsinh-portfolio.vercel.app
 
 </p>
 
@@ -121,25 +158,24 @@
 
 ---
 
-# 🏆 Achievements
-
-✅ Data Analysis Projects
-
-✅ Machine Learning Projects
-
-✅ NLP Projects
-
-✅ Customer Segmentation
-
-✅ Regression Models
-
-✅ GitHub Portfolio Development
-
----
+# 👀 Profile Visitors
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=ShivrajRajput99&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
+---
+
+# ⭐ Quote
+
+<p align="center">
+
+"Consistency beats talent when talent doesn't work hard."
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
