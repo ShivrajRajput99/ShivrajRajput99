@@ -5,26 +5,18 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning, NLP and Deep Learning**
-- 📊 Interested in **Data Science and Analytics**
-- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-Learn**
-- 📫 Reach me at: **smrajput2004@gmail.com**
+- 🌱 Currently learning Machine Learning, NLP and Deep Learning
+- 📊 Interested in Data Science and Analytics
+- 💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn
+- 📫 Reach me at: smrajput2004@gmail.com
 
 ---
 
 ## 🛠️ Languages and Tools
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- NLTK
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode" />
+</p>
 
 ---
 
@@ -59,14 +51,51 @@
 
 ## 📈 GitHub Stats
 
-![Shivraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivrajRajput99&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivrajRajput99&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivrajRajput99&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShivrajRajput99&theme=tokyonight)
+
+---
+
+## 🌐 Portfolio Website
+
+🔗 https://shivrajsinh-portfolio.vercel.app
+
+---
+
+## 📄 Resume
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
+</a>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ShivrajRajput99/ShivrajRajput99/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🛠 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode,jupyter" />
+</p>
+
+---
+
+## 🌟 Connect with Me
 
 🔗 GitHub: https://github.com/ShivrajRajput99
 
+---
+
 ⭐ Thanks for visiting my profile!
+
