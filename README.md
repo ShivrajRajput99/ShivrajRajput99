@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivrajsinh Rajput</h1>
 <h3 align="center">Data Science Enthusiast | Python Developer | Machine Learning Learner</h3>
+<h3 align="center">Python • SQL • Pandas • Scikit-Learn • Data Analytics</h3>
 
 ---
 
