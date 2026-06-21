@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Machine Learning, NLP and Deep Learning**
 - 📊 Interested in **Data Science and Analytics**
 - 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-Learn**
-- 📫 Reach me at: **your_email_here@gmail.com**
+- 📫 Reach me at: **smrajput2004@gmail.com**
 
 ---
 
