@@ -104,13 +104,21 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
+✅ Completed DecodeLabs Data Science Internship
 
-https://github-profile-trophy.vercel.app/?username=ShivrajRajput99&theme=tokyonight
+✅ Built 8+ Data Science Projects
 
-</p>
+✅ Machine Learning Enthusiast
+
+✅ NLP & Customer Segmentation Projects
+
+✅ House Price Prediction Project
+
+✅ SQL Data Analysis Projects
+
+✅ Professional GitHub Portfolio Development
 
 ---
 
