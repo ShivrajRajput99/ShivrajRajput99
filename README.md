@@ -1,102 +1,145 @@
 <h1 align="center">Hi 👋, I'm Shivrajsinh Rajput</h1>
-<h3 align="center">Data Science Enthusiast | Python Developer | Machine Learning Learner</h3>
-<h3 align="center">Python • SQL • Pandas • Scikit-Learn • Data Analytics</h3>
+
+<h3 align="center">🚀 Data Science Enthusiast | Python Developer | Machine Learning Learner</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;NLP+Explorer;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Machine Learning, NLP and Deep Learning
-- 📊 Interested in Data Science and Analytics
-- 💻 Skilled in Python, SQL, Pandas, NumPy, Scikit-Learn
-- 📫 Reach me at: smrajput2004@gmail.com
+- 🌱 Currently learning **Machine Learning, NLP and Deep Learning**
+- 📊 Interested in **Data Science and Analytics**
+- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-Learn**
+- 📚 Building Data Science Projects
+- ⚡ Passionate about AI & Analytics
 
 ---
 
-## 🛠️ Languages and Tools
+## 🌐 Connect with Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode" />
+<p align="left">
+<a href="https://github.com/ShivrajRajput99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Languages and Tools
 
-### 📊 Advanced EDA & Feature Engineering
-- Data Cleaning
-- EDA
-- Outlier Detection
-
-### 💳 Fraud Detection Pipeline
-- SMOTE
-- Random Forest
-- Confusion Matrix
-
-### 👥 Customer Segmentation using PCA & K-Means
-- PCA
-- Elbow Method
-- Silhouette Score
-
-### 📝 NLP Sentiment Analysis
-- TF-IDF
-- Naive Bayes
-- Accuracy: 85.35%
-
-### 🏠 Delhi House Price Prediction
-- Linear Regression
-- Feature Engineering
-- Model Evaluation
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivrajRajput99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivrajRajput99&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShivrajRajput99&theme=tokyonight)
-
----
-
-## 🌐 Portfolio Website
-
-🔗 https://shivrajsinh-portfolio.vercel.app
-
----
-
-## 📄 Resume
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
-</a>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ShivrajRajput99/ShivrajRajput99/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🛠 Technologies
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github,vscode,jupyter" />
 </p>
 
 ---
 
-## 🌟 Connect with Me
+# 📂 Featured Projects
 
-🔗 GitHub: https://github.com/ShivrajRajput99
+### 📊 Advanced EDA & Feature Engineering
+✔ Data Cleaning  
+✔ EDA  
+✔ Outlier Detection  
+
+### 💳 Fraud Detection Pipeline
+✔ SMOTE  
+✔ Random Forest  
+✔ Confusion Matrix  
+
+### 👥 Customer Segmentation using PCA & K-Means
+✔ PCA  
+✔ Elbow Method  
+✔ Silhouette Score  
+
+### 📝 NLP Sentiment Analysis
+✔ TF-IDF  
+✔ Naive Bayes  
+✔ Accuracy: 85.35%
+
+### 🏠 Delhi House Price Prediction
+✔ Regression Models  
+✔ Feature Engineering  
+✔ Model Evaluation
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShivrajRajput99&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivrajRajput99&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShivrajRajput99&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🌐 Portfolio Website
+
+<p align="center">
+
+🔗 https://shivrajsinh-portfolio.vercel.app
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![Snake animation](https://github.com/ShivrajRajput99/ShivrajRajput99/blob/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+✅ Data Analysis Projects
+
+✅ Machine Learning Projects
+
+✅ NLP Projects
+
+✅ Customer Segmentation
+
+✅ Regression Models
+
+✅ GitHub Portfolio Development
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
 
